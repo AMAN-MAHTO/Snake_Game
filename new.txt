@@ -1,0 +1,9 @@
+git status --> check status
+git init --> if folder is not initialized as git/or              to make .git file
+
+git add file_name --> to add file in stage area
+git commit --> to commit stage area files
+git commit -m "message" --> commit with message
+git log --> to get info. of commits
+rm -rf .git --> to uninitialize folder
+git clone --> to download any repository

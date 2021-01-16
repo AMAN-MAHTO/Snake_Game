@@ -1,7 +1,7 @@
 #even or odd
 
-number = int(input("Enter number: "))
-if number%2==0:
-    print(number,"is an even number")
+Number = int(input("Enter number: "))
+if Number%2==0:
+    print(Number,"is an even number")
 else:
-    print(number,"is an odd number")
+    print(Number,"is an odd number")
